@@ -11,22 +11,22 @@
 
 ## 0x01 Introduction
 
-Team project to build a clone of [AirBnB](https://www.airbnb.com/).
+A team projects to create a clone of [AirBnB](https://www.airbnb.com/).
 
-The console is a command interpreter to manage objects abstraction between objects and how they are stored.
+A console is a command interpreter to manage objects abstraction between objects
 
-To see the fundamental background of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
+For viewing the concept of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
 
-The console will perform the following tasks:
+The console functions are as follows:
 
-* create a new object
-* retrive an object from a file
-* do operations on objects
-* destroy an object
+*New object creation
+*Abtraction of objects from a file
+*Carring out operations on objects
+*Object destruction
 
 ### Storage
 
-All the classes are handled by the `Storage` engine in the `FileStorage` Class.
+The classe are Manage by the `Storage` engine in the `FileStorage` Class.
 
 ## 0x02 Environment
 
@@ -42,10 +42,9 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/aysuarex/AirBnB_clone.git
+git clone https://github.com/clementigbinoba/AirBnB_clone
 ```
-
-change to the `AirBnb` directory and run the command:
+Navigate to the `AirBnb` directory:
 
 ```bash
  ./console.py
@@ -95,7 +94,7 @@ $
 
 ## 0x04 Testing
 
-All the test are defined in the `tests` folder.
+All the test in the test folder are defined.
 
 ### Documentation
 
@@ -149,7 +148,7 @@ python3 -m unittest discover tests
 
 ## 0x05 Usage
 
-* Start the console in interactive mode:
+* Begin the console from the interactive mode:
 
 ```bash
 $ ./console.py
