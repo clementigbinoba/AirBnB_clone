@@ -176,11 +176,11 @@ $
 
 ### Commands
 
-> The commands are displayed in the following format *Command / usage / example with output*
+> Commands was displayed through the following format *Command / usage / example with output*
 
 * Create
 
-> *Creates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.*
+> *Set a new instance of a class. The ID of the class is printed and the instance is saved to the file file.json.*
 
 ```bash
 create <class>
@@ -207,7 +207,7 @@ show <class> <id>
 
 * Destroy
 
-> *Deletes an instance of a given class with a given ID.*
+> *Deletes an instance of a given class by the given ID.*
 > *Update the file.json*
 
 ```bash
@@ -234,7 +234,7 @@ e45ddda9-eb80-4858-99a9-226d4f08a629
 
 * count
 
-> *Prints the number of instances of a given class.*
+> *Prints the instances of a given class.*
 
 ```bash
 (hbnb) create City
@@ -248,18 +248,16 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 
 * update
 
-> *Updates an instance based on the class name, id, and kwargs passed.*
+> *Updates instance based on  class name, id, and kwargs passed.*
 > *Update the file.json*
 ```
 ## Authors
 <details>
-    <summary>Godswill Kalu</summary>
-    <summary>TIESSIA BOLA</summary>
+    <summary>Clement Igbinoba</summary>
+    <summary> Abenezer Hailu Tibebu</summary>
     <ul>
-    <li><a href="https://www.github.com/lordwill">Github</a></li>
-    <li><a href="mailto:messagelordwill@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/Adamsbola">Github</a></li>
-    <li><a href="mailto:adamadu52@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/clementigbinoba">Github</a></li>
+    <li><a href="mailto:happyclemsy@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
